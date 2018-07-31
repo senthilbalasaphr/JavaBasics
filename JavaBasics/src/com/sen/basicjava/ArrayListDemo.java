@@ -49,6 +49,8 @@ public class ArrayListDemo {
 		System.out.println(val.postalcode);
 		System.out.println(val.phonenum);
 		
+
+		
 	}
 
 	}
